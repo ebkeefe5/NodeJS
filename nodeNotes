@@ -1,0 +1,19 @@
+NodeJs
+Easy to get started
+prototyping and easy development
+document.getElementbyId
+
+fs.readFile()
+http.createServer()
+
+ascyhronous pattern: can handle many things at once
+request: thread -> query database
+node appications are ascyhronous by default
+
+single thread used to handle all requests
+
+
+synchornous: blocking
+
+variables are scoped to each FILE!!
+
